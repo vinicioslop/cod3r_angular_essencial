@@ -3,11 +3,11 @@
     width: 200px;
 }
 
-.sidenav a {
+.sidenav .nav-list a {
     color: #fff;
 }
 
-.sidenav i {
+.sidenav .nav-list i {
     padding-right: 10px;
 }
 
