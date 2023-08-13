@@ -1,3 +1,16 @@
-p {
-    color: black;
+.card {
+    padding: 15px;
+}
+
+.card .card-title {
+    margin-bottom: 20px;
+}
+
+form {
+    display: flex;
+    flex-direction: column;
+}
+
+button {
+    margin-right: 15px;
 }
